@@ -1,0 +1,13 @@
+.avatar {
+    width: 35px;
+    height: 40px;
+    padding: 4px;
+    border: 1px solid rgb(237, 231, 231);
+    border-radius: 6px;
+}
+
+.domain_text,.icon {
+    cursor: pointer;
+}
+
+/*# sourceMappingURL=/styles.956d002c.css.map */
